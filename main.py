@@ -1,4 +1,3 @@
-import time
 import tkinter as tk
 
 class PomodoroTimer:
