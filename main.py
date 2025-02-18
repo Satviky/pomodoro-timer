@@ -52,3 +52,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     pomodoro_timer = PomodoroTimer(root)
     root.mainloop()
+
